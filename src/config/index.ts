@@ -1,4 +1,4 @@
-// Nav bar categories
+// an array Nav bar categories
 
 export const PRODUCT_CATEGORIES = [
   {
@@ -39,7 +39,7 @@ export const PRODUCT_CATEGORIES = [
       {
         name: "Bestselling icons",
         href: "#",
-        imageSrc: "/nav/icons/bestseller.jpg",
+        imageSrc: "/nav/icons/bestsellers.jpg",
       },
     ],
   },
